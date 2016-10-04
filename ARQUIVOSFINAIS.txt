@@ -1,0 +1,22 @@
+ARQUIVOSFINAIS
+
+- Documento com Especificação de Requisitos, Arquitetura do Programa, Modelo Estrutural conforme
+notação UML apresentada na aula de Modelagem (contendo o Modelo, um Exemplo da estrutura com
+base no modelo e as respectivas assertivas estruturais).
+- Um arquivo LEIAME.TXT contendo a explicação de como utilizar o(s) programa(s).
+- Os arquivos-fonte dos diversos módulos que compõem o programa e dos seus respectivos módulos de
+controle de testes executáveis. Obs.: O projeto do Trabalho 2 deverá obedecer uma estrutura de
+diretórios bem definida. (siga como padrão a estrutura de diretórios adotada pelo projeto /instrum
+disponível no arcabouço)
+- Os arquivos de script de teste desenvolvidos pelo grupo.
+- Os arquivos de composição (.comp) que permitem a criação dos arquivos .make e .build.
+- Os arquivos batch (.bat) que auxiliam o processo de geração dos arquivos .make e .build. (veja os
+exemplos geramake.bat e geratudo.bat no arcabouço).
+- Os arquivos batch (.bat) que auxiliam o processo de geração dos arquivos .exe. (veja os exemplos
+compila.bat e compilatudo.bat no arcabouço).
+- Os arquivos batch (.bat) que coordenam a execução dos testes. (veja o exemplo testatudo.bat no
+arcabouço).
+- Programa executável (construto) em cada projeto: TRAB2-1.EXE, TRAB2-2.EXE, TRAB2-3.EXE, e
+assim por diante. Obs.: Caso o cliente de email não deixe anexar arquivos com extensão .exe, renomeie
+os arquivos para uma outra extensão qualquer, como por exemplo: TRAB2-1.EXE.txt. Deixe claro no
+arquivo LEIAME.TXT qual o padrão de renomeação adotado pelo grupo. 
