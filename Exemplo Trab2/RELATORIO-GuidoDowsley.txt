@@ -1,0 +1,6 @@
+Data		Número de horas	Tipo de tarefa			Descrição
+07/04/2016	1 hora		especificar os módulo		Início da documentação e especificação 
+07/04/2016	2 horas		codificar módulo		Codificação do módulo de PILHA
+20/04/2016	2 horas		criar modelo da estrutura	Criação do modelo da estrutura matriz de pilha
+21/04/2016	1 hora		revisar o modelo da estrutura	Revisão do modelo da estrutura matriz de pilha
+21/0/2016	1 hora		revisar a arquitetura		Revisão da arquitetura do trabalho

@@ -1,0 +1,8 @@
+	TRAB2-1
+É a implementação do módulo de listas genéricas e seu módulo de testes. Para executá-lo, basta executar o arquivo TRAB2-1.bat na pasta TRAB2-1, que contem as diretivas para executar o TRAB2-1.exe com o script de testes TesteLista.script e gerar um log.
+
+	TRAB2-2
+É a implementação do módulo de pilhas e seu módulo de testes. Para executá-lo, basta executar o arquivo TRAB2-2.bat na pasta TRAB2-2, que contem as diretivas para executar o TRAB2-2.exe com o script de testes TestePilha.script e gerar um log.
+
+	TRAB2-3
+É a implementação do módulo de matrizes de pilhas e seu módulo de testes. Para executá-lo, basta executar o arquivo TRAB2-3.bat na pasta TRAB2-3, que contem as diretivas para executar o TRAB2-3.exe com o script de testes TesteMatriz.script e gerar um log.

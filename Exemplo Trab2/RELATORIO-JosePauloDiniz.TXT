@@ -1,0 +1,7 @@
+Data	Horas Trabalhadas	Tipo Tarefa		Descrição da Tarefa Realizada
+11/4/16		3		especificar os módulos	Início da documentação e especificação
+16/4/16		2		codificar módulo	codificação do módulo de pilha e do teste de pilhas
+17/4/16		4		codificar módulo	codificação do módulo de matrizes e do teste de matrizes
+18/4/16		4		codificar módulo	codificação do módulo de matrizes e do teste de matrizes
+20/4/16		3		redigir script de teste	revisão do módulo de pilha e redigiu os scripts de teste
+21/4/16		5		realizar os testes	realizou os testes e corrigiu as falhas encontradas
