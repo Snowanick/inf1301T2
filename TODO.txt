@@ -1,0 +1,15 @@
+TODO LIST:
+[ ] - Especificação de Requisitos do Jogo de Ludo
+[ ] - Arquitetura do Programa, usando diagrama
+[ ] - Modelo físico do Programa, (Uma estrutura para o Tabuleiro)
+[ ] - Testar o programa separadamente
+[ ] - Criar LEIA-ME.txt
+[ ] - Criar script de testes
+[ ] - Criar arquivos .bat
+[ ] - Criar Relatório.txt
+----------- CÓDIGO -------------
+[ ] - Finalizar LISTA.C
+[ ] - Finalizar LISTACIRC.C
+[ ] - Finalizar LISTA.H
+[ ] - Finalizar LISTACIRC.H
+[ ] - Definir outros possiveis .C (Peça, tabuleiro, jogador, ...)
